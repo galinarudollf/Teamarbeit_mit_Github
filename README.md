@@ -25,7 +25,7 @@ Folgende Schritte sind dabei durchzuführen:
     Zum Erstellen von Kopien auf den lokalen Rechnern kann ein Client verwendet werden. z.B. `git-scm` (zu finden unter https://git-scm.com/download/). 
     Nach der Installation kann der Client über Kontextmenü des Explorers aufgerufen werden (über `Open Git Bash here`). 
     
-    Hinweis: Geben Sie den Befehl `git clone <fork-url>` auf der Befehlszeile des Bash-Fensters, um das geforkte Repository zu klonen.
+    Hinweis: Geben Sie den Befehl `git clone <fork-url>` auf der Befehlszeile des Bash-Fensters, um das geforkte Repository zu klonen. Die Fork-Url können Sie erhalten, wenn Sie auf den Schalter "Code" im Browser clicken und die HTTPS-Link kopieren.
 
 5.  Bearbeiten der Datei in Branches durch die **Entwickler**.
 
